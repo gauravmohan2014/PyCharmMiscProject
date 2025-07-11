@@ -36,3 +36,16 @@ o   Square root of the number
 o   Natural logarithm (log base e) of the number
 o   Sine of the number (in radians)
 Displays the calculated results.
+
+Assignment 4 - Task 1 & Task 2
+
+Task 1 Functionality: A Python program that:
+Opens and reads a text file named sample.txt.
+Prints its content line by line.
+Handles errors gracefully if the file does not exist.
+
+Task 2 Functionality: A Python program that:
+Takes user input and writes it to a file named output.txt.
+Appends additional data to the same file.
+Reads and displays the final content of the file.
+
